@@ -1,6 +1,8 @@
 # visored-cli-example
 
-You should set the proper path to the local clone of husky git repo
+You should set the proper path to the local clone of husky git repo.
+
+Note: it's Xiyu's fork of husky (https://github.com/xiyuzhai/husky), containing the latest visored-cli
 
 You should set the following environment variables:
 
